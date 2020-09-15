@@ -1,0 +1,8 @@
+This is lucida's cat -- 
+  lucida's cat's name is betty -- 
+This is lucida's dog -- 
+  lucida's dog's name is frank -- 
+This is lucida's fish -- 
+  lucida's fish's name is george -- 
+This is lucida's goat -- 
+  lucida's goat's name is adam -- 
